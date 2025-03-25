@@ -46,9 +46,9 @@ The project explores three sequential models with increasing complexity:
   - **Epoch 2:** Fine-tuning with losses stabilizing around 0.002–0.003.
   - **Epoch 3:** Refinement achieving an average loss as low as 0.0017.
 - **Evaluation Metrics:**  
-  - **Exact Match (EM):** 100%
-  - **F1 Score:** 1.00  
-  (Indicating near-perfect performance on controlled test sets.)
+  - **Exact Match (EM)
+  - **F1 Score
+  (Indicated near-perfect performance on controlled test sets.)
 
 #### Model 2: Advanced Transformer-based System
 - **Improvements:**  
